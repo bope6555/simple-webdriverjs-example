@@ -1,0 +1,22 @@
+{
+  "name": "simple-webdriverjs-example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vvo/simple-webdriverjs-example.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/vvo/simple-webdriverjs-example/issues"
+  },
+  "homepage": "https://github.com/vvo/simple-webdriverjs-example",
+  "dependencies": {
+    "webdriverjs": "~1.0.3"
+  }
+}
